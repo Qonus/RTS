@@ -19,4 +19,4 @@ Screenshots:
 
 ![image](https://github.com/Qonus/RTS/assets/94901082/a44aec80-9703-451e-b60b-ec2b45445a19)
 
-![Uploading image.png…]()
+![image](https://github.com/Qonus/RTS/assets/94901082/a0b1b52b-b5ea-48c6-a477-8c5fdde968d5)
