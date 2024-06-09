@@ -14,3 +14,9 @@ Controls:
     Scroll Mouse Wheel to zoom in and out
 
     Drag and drop castle to build one
+
+Screenshots:
+
+![image](https://github.com/Qonus/RTS/assets/94901082/a44aec80-9703-451e-b60b-ec2b45445a19)
+
+![Uploading image.png…]()
